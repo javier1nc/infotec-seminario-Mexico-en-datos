@@ -1,4 +1,4 @@
-# infotec-seminario-preparacion
+# infotec-seminario-avances
 Seminario de Proyectos III 2023-1
 
 LINK VIDEO:
