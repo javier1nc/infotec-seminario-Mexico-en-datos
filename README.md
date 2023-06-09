@@ -1,11 +1,15 @@
-# infotec-seminario-avances
-Seminario de Proyectos III 2023-1
+# Mexico en Datos
 
-LINK VIDEO:
+**Javier Sanchez Mendoza**
 
-[https://youtu.be/KyZzFT_RMEM](https://youtu.be/KyZzFT_RMEM)
+*code@javier1nc.com*
 
+## Revisores
 
-El trabajo escrito, esta en la carpeta Documentos.
+*   Revisor 1: Dr. Fulanito De Tal, *correo electrónico institucional*
+*   Revisor 2: Sin Asignar
 
-El codigo esta en la carpeta Codigo.
+## Entregables
+
+*   [Trabajo escrito (versión más reciente en PDF)](https://github.com/seminario-proyectos-infotec/Plunging1667/blob/main/Documentos/Infotec-MCDI-Avance-de-proyecto-de-titulaci%C3%B3n.pdf)
+*   [Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores)](https://youtu.be/KyZzFT_RMEM)
