@@ -1,4 +1,4 @@
-# Mexico en Datos
+# DESARROLLO DE DASHBOARD; MÉXICO EN DATOS : “COVID19”
 
 **Javier Sanchez Mendoza**
 
@@ -6,7 +6,7 @@
 
 ## Revisores
 
-*   Revisor 1: Dr. Fulanito De Tal, *correo electrónico institucional*
+*   Revisor 1: Edgar González Fernández, *edgar.gonzalezf@infotec.mx*
 *   Revisor 2: Sin Asignar
 
 ## Entregables
